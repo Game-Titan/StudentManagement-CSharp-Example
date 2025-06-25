@@ -44,6 +44,13 @@ This project showcases core C# and OOP principles, including:
 
 ---
 
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
 ## 👨‍💻 Author
 
 * **[Game-Titan](https://github.com/Game-Titan)** 
