@@ -32,21 +32,7 @@ This project showcases core C# and OOP principles, including:
 
 ---
 
-## 🏃 How to Run
 
-1.  **Prerequisites:** Ensure you have the .NET SDK installed on your machine.
-2.  **Clone the Repository (Optional, for local testing):**
-    ```bash
-     git clone [https://github.com/Game-Titan/CSharp-StudentSystem-Basic.git]
-    cd CSharp-StudentSystem-Basic
-    ```
-   
-3.  **Run the Application:**
-    ```bash
-    dotnet run
-    ```
-
----
 
 ## 💡 Future Improvements (Optional Ideas)
 
