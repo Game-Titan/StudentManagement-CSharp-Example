@@ -53,4 +53,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-* **[Game-Titan](https://github.com/Game-Titan)** 
+* **[Game-Titan](https://github.com/Game-Titan)**
+  
